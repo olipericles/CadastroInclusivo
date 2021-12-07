@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="css/bulma.min.css" />
     <link rel="stylesheet" type="text/css" href="css/login.css">
 </head>
-
+<?php?>
 <body>
     <section class="hero is-success is-fullheight">
         <div class="hero-body">
